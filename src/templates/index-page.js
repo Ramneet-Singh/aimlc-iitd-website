@@ -1,6 +1,5 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
-import Img from "gatsby-image"
 import { RiArrowRightSLine } from "react-icons/ri"
 
 import Layout from "../components/layout"
@@ -14,17 +13,6 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        tagline
-        featuredImage {
-          childImageSharp {
-            fluid(maxWidth: 480, maxHeight: 380, quality: 80, srcSetBreakpoints: [960, 1440]) {
-              ...GatsbyImageSharpFluid
-            }
-            sizes {
-              src
-            }
-          }
-        }
         cta {
           ctaText
           ctaLink
@@ -37,7 +25,6 @@ export const pageQuery = graphql`
 const HomePage = ({ data }) => {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
-  const Image = frontmatter.featuredImage ? frontmatter.featuredImage.childImageSharp.fluid : ""
 	return (
 		<Layout>
       <SEO/>
