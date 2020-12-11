@@ -17,6 +17,13 @@
   position: relative;
   background: var(--header-bg);
   padding: 25px 20px;
+  a {
+    color: #fff;
+    text-decoration: none;
+    &:hover {
+      color: #bdbdbd;
+    }
+  }
 }
 .site-navigation {
   ul {
