@@ -41,7 +41,20 @@ const HomePage = ({ data }) => {
 	return (
 		<Layout>
       <SEO/>
-      <div className="home-banner grids col-1 sm-2">
+      <div className="image-overlay">
+          <section className="overlay-content">
+            <h1 class="title">{frontmatter.title}</h1>
+            <p class="tagline">{frontmatter.tagline}</p>
+            <div className="description" dangerouslySetInnerHTML={{__html: html}}/>
+            <Link to={frontmatter.cta.ctaLink} className="button">{frontmatter.cta.ctaText}<span class="icon -right"><RiArrowRightSLine/></span></Link>
+          </section>
+      </div>
+      <BlogListHome/>
+		</Layout>
+	)
+}
+
+/*<div className="home-banner grids col-1 sm-2">
         <div>
           <h1 class="title">{frontmatter.title}</h1>
           <p class="tagline">{frontmatter.tagline}</p>
@@ -57,10 +70,5 @@ const HomePage = ({ data }) => {
             />
           ) : ""}
         </div>
-      </div>
-      <BlogListHome/>
-		</Layout>
-	)
-}
-
+      </div>*/
 export default HomePage
