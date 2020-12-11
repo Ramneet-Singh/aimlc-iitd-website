@@ -12,6 +12,12 @@ body {
   font-family: var(--font-family);
   font-size: 18px;
   background-color: #f5f5f5;
+  a {
+    color: #000;
+    &:hover {
+      color: #494949;
+    }
+  }
 }
 code {
   font-family: var(--font-family-mono);
