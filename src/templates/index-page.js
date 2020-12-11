@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
-import { RiArrowRightSLine } from "react-icons/ri"
+import { CgMoreR } from "react-icons/cg"
 
 import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
@@ -32,7 +32,7 @@ const HomePage = ({ data }) => {
           <section className="overlay-content">
             <h1 class="title">{frontmatter.title}</h1>
             <div className="description" dangerouslySetInnerHTML={{__html: html}}/>
-            <Link to={frontmatter.cta.ctaLink} className="button">{frontmatter.cta.ctaText}<span class="icon -right"><RiArrowRightSLine/></span></Link>
+            <Link to={frontmatter.cta.ctaLink} className="button">{frontmatter.cta.ctaText}<span class="icon -right"><CgMoreR/></span></Link>
           </section>
       </div>
       <BlogListHome />
