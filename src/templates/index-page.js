@@ -49,7 +49,7 @@ const HomePage = ({ data }) => {
             <Link to={frontmatter.cta.ctaLink} className="button">{frontmatter.cta.ctaText}<span class="icon -right"><RiArrowRightSLine/></span></Link>
           </section>
       </div>
-      <BlogListHome/>
+      <BlogListHome className="blog-posts-main" />
 		</Layout>
 	)
 }

@@ -95,7 +95,11 @@
 .container {
   margin: 0 auto;
   max-width: 1240px;
-  padding: 0 20px;
+  padding: 0 0;
+}
+
+.blog-posts-main {
+  margin: 0 20px;
 }
 
 .site-name {
@@ -152,8 +156,12 @@
   background: -webkit-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("../../../static/assets/test_overlay.jpg");
   background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: hidden;
   width: 100vw;
-
+  position: relative;
+  min-height: 300px;
   .overlay-content {
     position: absolute;
     top: 50%;
