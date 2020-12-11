@@ -1,5 +1,5 @@
 import React from "react"
-import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, graphql, Link } from "gatsby"
 
 import Header from "./header"
 import Logo from "./logo"
@@ -26,7 +26,8 @@ const Layout = ({children, className}) => {
   return (
     <div className="primary-container">
       <Header>
-        <Logo title={siteTitle} />
+        <Logo />
+        <Link to='/' className='site-name'>{siteTitle}</Link>
         <Navigation/>
       </Header>
       <main className={"container " + className}>
