@@ -11,7 +11,7 @@ const Footer = () => (
         <li><Link to="https://www.linkedin.com/in/ramneetsinghiitd/"><span className="icon"><AiFillLinkedin /></span></Link></li>        
         <li><Link to="https://github.com/Ramneet-Singh"><span className="icon"><AiFillGithub /></span></Link></li>
       </ul>
-      <p>Website for AIMLC IIT Delhi, Made with <span className="icon -love"><RiHeart2Line/></span> by <Link to="https://www.linkedin.com/in/ramneetsinghiitd/">Ramneet Singh</Link></p>
+      <p>Website for AIMLC IIT Delhi, Made with <span className="icon -love"><RiHeart2Line/></span> by <Link to="https://www.linkedin.com/in/ramneetsinghiitd/" className="author-name">Ramneet Singh</Link></p>
     </div>
   </footer>
 )
