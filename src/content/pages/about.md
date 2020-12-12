@@ -1,50 +1,28 @@
 ---
 template: about-page
 slug: /about
-title: About Foundation
+title: About Us
 ---
-Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
+### What is AIMLC IITD?
 
-A true inspiration for the children. And when we woke up, we had these bodies. Moving along… Do a flip! Michelle, I don't regret this, but I bth rue and lament it.
+AIMLC is the Artificial Intelligence and Machine Learning Club of IIT Delhi. It is a community of IITD students motivated and passionate in the emerging fields of AI/ML. AIMLC aims to be the gathering place for students enthusiastic about learning, discussing and applying AI/ML to all kinds of problem-solving, be it academic or real-life.
 
-![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
+### What do we do?
 
-Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Well, then good news! It's a suppository. Then we'll go with that data file! **I've been there.** *My folks were always on me to groom myself and wear underpants.* What am I, the pope?
+We organize multiple fun and educational events in IITD related to AI/ML, like podcasts, expert talks, workshops, hackathons and more. We strive to lower the entry-barrier in the emerging field of AI/ML by providing opportunities to interact with leaders in industry and academia, and also a hands-on learning experience.
 
-Daddy Bender, we're hungry. We can't compete with Mom! Her company is big and evil! Ours is small and neutral! We're rescuing ya. We'll go deliver this crate like professionals, and then we'll go home.
+### Why did we start this club?
 
-I didn't ask for a completely reasonable excuse! I asked you to get busy! I never loved you. OK, this has gotta stop. I'm going to remind Fry of his humanity the way only a woman can. With a warning label this big, you know they gotta be fun!
+In recent times, the field of AI/ML has seen massive growth with large numbers of researchers and engineers entering academia and industry alike. With better and cheaper computational power, and a colossal amount of data generated every day, AI and ML are finding broader and deeper applications in every area. However, in IIT Delhi, we lacked a dedicated club to cater to the large community of students interested in this field. AIMLC strives to address this void by being the one-stop destination for IITD students passionate about AI/ML.
 
-1. And from now on you're all named Bender Jr.
-2. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."
-3. You wouldn't. Ask anyway!
+### What is our vision for the future?
 
-Bender, quit destroying the universe! No! The cat shelter's on to me. Enough about your promiscuous mother, Hermes! We have bigger problems. Fatal. I guess if you want children beaten, you have to do it yourself.
+The emerging field of AI/ML is fast revolutionizing all aspects of modern life. It is going to impact the future of virtually every industry and human being. AIMLC thus aims to be a launching pad for students eager to take up a career in AI/ML. The club recognizes the diverse aspirations of students in academia, industry and entrepreneurship, and thus it focuses on catering to the various career directions in AI/ML. The vision of the club is to provide content, guidance and practical experience to students of IITD in AI/ML building a community of like-minded individuals. AIMLC aspires to be the one-stop solution for all your queries in AI/ML.
 
-I decline the title of Iron Cook and accept the lesser title of Zinc Saucier, which I just made up. Uhh… also, comes with double prize money. You mean while I'm sleeping in it? I don't want to be rescued.
+### What is in store for you?
 
-* You know the worst thing about being a slave? They make you work, but they don't pay you or let you go.
-* And when we woke up, we had these bodies.
-* Spare me your space age technobabble, Attila the Hun!
+If you are looking forward to beginning your journey, or if you want to hone your skills in AI/ML, then this is the right place for you. We have many exciting events in store for you like podcasts with alumni, talks by experts, hackathons, projects, blogs and workshops. Besides, you get to connect with like-minded people and discuss and learn and collaborate, to drive the overall growth of the AI/ML community at IITD. Bottom line: we will make your journey in the field of AI/ML fun and exhilarating.
 
-Hi, I'm a naughty nurse, and I really need someone to talk to. $9.95 a minute. But, like most politicians, he promised more than he could deliver. I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+#### Meet the Team
 
-You mean while I'm sleeping in it? I suppose I could part with 'one' and still be feared… Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Negative, bossy meat creature!
-
-Oh God, what have I done? I don't 'need' to drink. I can quit anytime I want! Bender! Ship! Stop bickering or I'm going to come back there and change your opinions manually! Wow! A superpowers drug you can just rub onto your skin? You'd think it would be something you'd have to freebase.
-
-Ask her how her day was. In our darkest hour, we can stand erect, with proud upthrust bosoms. Why did you bring us here? I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
-
-Good news, everyone! I've taught the toaster to feel love! This opera's as lousy as it is brilliant! Your lyrics lack subtlety. You can't just have your characters announce how they feel. That makes me feel angry!
-
-Hello Morbo, how's the family? You won't have time for sleeping, soldier, not with all the bed making you'll be doing. Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
-
-My fellow Earthicans, as I have explained in my book 'Earth in the Balance'', and the much more popular ''Harry Potter and the Balance of Earth', we need to defend our planet against pollution. Also dark wizards. Incidentally, you have a dime up your nose.
-
-You are the last hope of the universe. You know the worst thing about being a slave? They make you work, but they don't pay you or let you go. I meant 'physically'. Look, perhaps you could let me work for a little food? I could clean the floors or paint a fence, or service you sexually?
-
-Hey, guess what you're accessories to. I feel like I was mauled by Jesus. Why would a robot need to drink? What are their names? Fry! Quit doing the right thing, you jerk! Doomsday device? Ah, now the ball's in Farnsworth's court!
-
-I saw you with those two "ladies of the evening" at Elzars. Explain that. Shinier than yours, meatbag. That's the ONLY thing about being a slave. Um, is this the boring, peaceful kind of taking to the streets?
-
-Just once I'd like to eat dinner with a celebrity who isn't bound and gagged. Daddy Bender, we're hungry. Kids don't turn rotten just from watching TV. I just want to talk. It has nothing to do with mating. Fry, that doesn't make sense.
+If you're wondering about the faces behind this huge blob of text, we are a team of 8 sophomores majoring in CS and EE, striving to establish this community. We are passionate about AI and ML, and we firmly believe that a dedicated club in IITD will benefit the whole community of students who are looking to build a career in this field or just want to explore the area. You can see our pretty faces in the picture below:)
