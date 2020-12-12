@@ -17,7 +17,7 @@ const Thanks = () => (
       }}/>
       <h1>Got your message</h1>
       <p>Thank you for getting in touch with us. We will get back to you shortly.</p>
-      <Link to="/" className="button"><RiArrowLeftSLine className="icon -left"/>Lets go back to Homepage</Link>
+      <Link to="/" className="button"><RiArrowLeftSLine className="icon -left"/>Let's go back to Homepage</Link>
     </div>
 
   </Layout>
