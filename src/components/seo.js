@@ -30,7 +30,7 @@ const SEO = ({ title, description, image, article }) => {
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-LC9C0Y0H95"></script>
       <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+        function gtag(){dataLayer.push(arguments)}
         gtag('js', new Date());
 
         gtag('config', 'G-LC9C0Y0H95');
