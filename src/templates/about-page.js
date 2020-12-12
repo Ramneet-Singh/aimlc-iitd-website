@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import ProfileCards from "../components/profile-cards"
 
 export const pageQuery = graphql`
   query AboutQuery($id: String!){
@@ -30,6 +31,7 @@ const AboutPage = ({ data }) => {
 				<h1>{frontmatter.title}</h1>
 				<article dangerouslySetInnerHTML={{ __html: html }} />
 			</div>
+			<ProfileCards />
 		</Layout>
 	)
 }
