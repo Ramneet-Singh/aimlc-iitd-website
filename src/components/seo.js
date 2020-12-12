@@ -27,14 +27,6 @@ const SEO = ({ title, description, image, article }) => {
   return (
     <Helmet title={seo.title} titleTemplate={titleTemplate}>
       <html lang="en-US"/>
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-LC9C0Y0H95"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments)}
-        gtag('js', new Date());
-
-        gtag('config', 'G-LC9C0Y0H95');
-      </script>
       <link rel="alternate" href={seo.url} hreflang="en-us" />
       <link rel="alternate" href={seo.url} hreflang="en" />
       <link rel="alternate" href={seo.url} hreflang="x-default" />
