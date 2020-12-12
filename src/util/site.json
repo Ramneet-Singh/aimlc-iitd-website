@@ -4,9 +4,9 @@
     "titleTemplate": "%s",
     "description": "A community for students at IIT Delhi who are passionate about Artificial Intelligence and Machine Learning. If you're interested in how these technologies can revolutionise our world, this is the place for you! Follow us on Instagram: https://www.instagram.com/aimlc.iitd/",
     "siteUrl": "https://aimlc-iitd.netlify.app/",
-    "image": "/assets/new_club_logo.jpeg",
-    "iconimage": "/assets/new_club_logo.jpeg",
+    "image": "/assets/club_logo.jpeg",
+    "iconimage": "/assets/club_logo.jpeg",
     "twitterUsername": ""
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "G-LC9C0Y0H95"
 }
