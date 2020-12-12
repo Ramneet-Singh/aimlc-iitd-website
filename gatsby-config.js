@@ -88,8 +88,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Foundation`,
-        short_name: `Foundation`,
+        name:'AI/ML Club IITD',
+        short_name: `AIMLC IITD`,
         start_url: `/`,
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,
