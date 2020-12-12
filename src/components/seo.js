@@ -31,7 +31,7 @@ const SEO = ({ title, description, image, article }) => {
       <link rel="alternate" href={seo.url} hreflang="en" />
       <link rel="alternate" href={seo.url} hreflang="x-default" />
       <link rel="preconnect" href="https://fonts.gstatic.com" />
-      <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap" rel="stylesheet" />
+      <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap" rel="stylesheet" />      
       <meta name="description" content={seo.description} />
       <meta name="image" content={seo.image} />
 
