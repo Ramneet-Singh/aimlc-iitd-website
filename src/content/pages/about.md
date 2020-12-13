@@ -25,4 +25,4 @@ If you are looking forward to beginning your journey, or if you want to hone you
 
 #### Meet the Team
 
-If you're wondering about the faces behind this huge blob of text, we are a team of 8 sophomores majoring in CS and EE, striving to establish this community. We are passionate about AI and ML, and we firmly believe that a dedicated club in IITD will benefit the whole community of students who are looking to build a career in this field or just want to explore the area. You can see our pretty faces in the picture below:)
+If you're wondering about the faces behind this huge blob of text, we are a team of 8 sophomores majoring in CS and EE, striving to establish this community. We are passionate about AI and ML, and we firmly believe that a dedicated club in IITD will benefit the whole community of students who are looking to build a career in this field or just want to explore the area. You can see our pretty faces in the pictures below:)
