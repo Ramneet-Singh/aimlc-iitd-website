@@ -268,11 +268,18 @@ article img {
   padding: 20px;
   line-height: 1.5;
   font-size: 20px;
+  a {
+    color: #0d47a1;
+    &:hover {
+      color: #42a5f5;
+    }
+  }
 }
 
 .blog-post {
   .featured-image {
     min-height: 50vh;
+    width: 100%;
     border-radius: 12px;
   }
 }
