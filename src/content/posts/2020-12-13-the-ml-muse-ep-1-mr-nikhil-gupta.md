@@ -6,7 +6,7 @@ date: 2020-12-13 22:54
 description: "The ML Muse Podcast Episode 1: A podcast where people talk about
   their journeys working in Artificial Intelligence and Machine Learning. First
   guest Mr Nikhil Gupta, founder of LimeChat, IIT Delhi 2019 CSE Graduate."
-featuredImage: /assets/aimlc_podcast_nikhil_gupta.jpeg
+featuredImage: /assets/podcast_post_landscape.png
 ---
 Hello! If this is the first time you're hearing about us, do check out the [About Us](https://aimlc-iitd.netlify.app/about) page. Welcome to the first episode of *The ML Muse Podcast*, where we speak to people who are innovating, creating in and stretching the boundaries of the fields of AI and ML. We bring you their journeys entering and working in this area and hope that you learn as much from listening to them as we do.
 
