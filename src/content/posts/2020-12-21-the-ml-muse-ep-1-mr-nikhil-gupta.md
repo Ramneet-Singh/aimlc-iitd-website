@@ -2,7 +2,7 @@
 template: blog-post
 title: "The ML Muse Ep.1: Mr Nikhil Gupta"
 slug: /ML_Muse_Nikhil-Gupta
-date: 2020-12-13 22:54
+date: 2020-12-21 15:15
 description: "The ML Muse Podcast Episode 1: A podcast where people talk about
   their journeys working in Artificial Intelligence and Machine Learning. First
   guest Mr Nikhil Gupta, founder of LimeChat, IIT Delhi 2019 CSE Graduate."
