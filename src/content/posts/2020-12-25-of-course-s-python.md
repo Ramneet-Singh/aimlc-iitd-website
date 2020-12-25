@@ -4,7 +4,7 @@ title: "Of Course(s) Python!"
 slug: /python_resources
 date: 2020-12-25 21:20
 description: "A compiled List of awesome resources for learning Python for use in Artificial Intelligence and Machine Learning, compiled by AI and ML Club IIT Delhi"
-featuredImage: /assets/podcast_post_landscape_left.png
+featuredImage: /assets/featured_python.png
 ---
 Python is one of the languages that is witnessing incredible growth and popularity year by year. In 2019, Stackoverflow calculated that python would beat all other programming languages by 2022 as it has become the fastest-growing programming language in the world. It is also considered one of the best programming languages for machine learning.
 
