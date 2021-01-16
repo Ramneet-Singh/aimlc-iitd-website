@@ -3,7 +3,7 @@ template: blog-post
 title: "Jupyter and Libraries"
 slug: /Jupyter_and_Libraries
 date: 2021-01-16 14:25
-description: "Jupyter Notebooks and Python Libraries Tutorial: First Notebook in the Tutoria
+description: "Jupyter Notebooks and Python Libraries Tutorial: First Notebook in the Tutorial
 by Artificial Intelligence and Machine Learning Club, IIT Delhi"
 featuredImage: /assets/jupyter_landscape.png
 ---
