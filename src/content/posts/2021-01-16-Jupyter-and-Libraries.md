@@ -5,7 +5,7 @@ slug: /Jupyter_and_Libraries
 date: 2021-01-16 14:25
 description: "Jupyter Notebooks and Python Libraries Tutorial: First Notebook in the Tutoria
 by Artificial Intelligence and Machine Learning Club, IIT Delhi"
-featuredImage: /assets/FeaturedJupyter.png
+featuredImage: /assets/jupyter_landscape.png
 ---
 
 # Welcome to Jupyter Notebook Tutorial by AIMLC, IITD
