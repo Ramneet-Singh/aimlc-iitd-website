@@ -9,13 +9,17 @@ featuredImage: /assets/jupyter_landscape.png
 ---
 
 # Welcome to Jupyter Notebook Tutorial by AIMLC, IITD
---- prepared by [Nirjhar Das](https://www.linkedin.com/in/nirjhar-das-874596195).
+<small>--- prepared by [Nirjhar Das](https://www.linkedin.com/in/nirjhar-das-874596195).</small>
 
 In this notebook, we will get familiar with the Jupyter environment and also
 explore the powerful __Python__ libraries:
 1. __Pandas__
 2. __NumPy__
 3. __Matplotlib__
+
+If you are more the video-watching kind rather than the reading kind, or even if you would just like to have someone guide you through everything in this post, we have a great set of tutorial videos. Watch them on [YouTube](https://www.youtube.com/channel/UCYZexisW1MxuVkPyiybQoxg) or find them below. Stay tuned for the upcoming parts :D
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DTq5sX43nW8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Package installation and import
 
