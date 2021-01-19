@@ -17,9 +17,9 @@ explore the powerful __Python__ libraries:
 2. __NumPy__
 3. __Matplotlib__
 
-If you are more the video-watching kind rather than the reading kind, or even if you would just like to have someone guide you through everything in this post, we have a great set of tutorial videos. Watch them on [YouTube](https://www.youtube.com/channel/UCYZexisW1MxuVkPyiybQoxg) or find them below. Stay tuned for the upcoming parts :D
+If you are more the video-watching kind rather than the reading kind, or even if you would just like to have someone guide you through everything in this post, we have a great set of tutorial videos. Watch them on [YouTube](https://www.youtube.com/channel/UCYZexisW1MxuVkPyiybQoxg) or find them below. Follow along with the videos and come back for the code whenever you want to;) Stay tuned for Part 3!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DTq5sX43nW8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/playlist?list=PLoBovXf4PWTMiwh8_gIXH082CbDic1yMm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Package installation and import
 
