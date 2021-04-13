@@ -4,7 +4,7 @@ title: "AlphaFold"
 slug: /Alpha_Fold
 date: 2020-04-13 21:00
 description: "A review and introduction of Google Deep Mind's AlphaFold"
-featuredImage: /assets/alpha_fold.jpeg
+featuredImage: /assets/alphafold.jpeg
 ---
 
 Proteins are integral building blocks of life. Their complex functions and rich set of reactions largely depend on their structure. When relatively simpler poly-peptide chains are ‘folded’ in specific configurations, specific biologically active proteins are formed. But it is very difficult to tell which configurations would lead to which property, and so, to tell the configuration from the properties. The latter is the crux of the 50 year old problem of [protein folding](https://en.wikipedia.org/wiki/Protein_folding). 
