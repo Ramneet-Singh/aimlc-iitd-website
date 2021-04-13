@@ -1,0 +1,15 @@
+---
+template: blog-post
+title: "The ML Muse Ep.2: Dr Ankit Anand"
+slug: /ML_Muse_Ankit-Anand
+date: 2021-04-13 18:00
+description: "The ML Muse Podcast Episode 2: A podcast where people talk about
+  their journeys working in Artificial Intelligence and Machine Learning. Second
+  guest Dr Ankit Anand, Research Scientist at Google DeepMind Montreal, PhD from CSE Department at IIT Delhi."
+featuredImage: /assets/podcast_post_landscape_left_ankit_anand.png
+---
+Welcome to the second episode of **The ML Muse Podcast**, where we speak to people who are innovating, creating in and stretching the boundaries of the fields of AI and ML. We bring you their journeys entering and working in this area and hope that you learn as much from listening to them as we do.
+
+For our second episode (**drumrolls**), [Dr Ankit Anand](https://sites.google.com/view/ankitsanand/home) has been kind enough to speak with us. Ankit has been doing cutting edge research in Artificial Intelligence and Machine Learning for a long time now, and is an inspiration for all of us, in addition to being very kind. It is difficult to capture his extraordinary journey in one paragraph, but I will attempt to give some idea of why we feel so lucky to have interacted with him. Ankit worked on his PhD at IIT Delhi from 2013-2019, collaborating closely with Prof Mausam and Prof Parag Singla, as well as some undergraduate students. His work was on symmetry-aware AI algorithms, which he applied in various contemporary problems to show how the idea can increase scalability and efficiency of state-of-the-art algorithms. He is currently working at DeepMind Montreal, as a Research Scientist, where he tackles challenging and exciting problems in the field everyday (watch the video to know about some of his current work :p). His team is led by Prof Doina Precup, one of the pioneers of Reinforcement Learning. His willingness to help (believe us we know) and attitude towards solving ambitious problems, are some of the best characteristics of the research culture at IITD, and we're humbled to have him on. By now we're sure you're as excited as we were when we read about him, so without further ado, [Dr Ankit Anand](https://sites.google.com/view/ankitsanand/home) in conversation with [Ramneet Singh](https://www.linkedin.com/in/ramneetsinghiitd/). P.S.: If you'd like to know about DeepMind's recent revolutionary discovery, be sure to check out our blog post at [Alpha Fold](https://aimlc-iitd.netlify.app/Alpha_Fold)! Also don't miss Ankit speaking about this and sharing some great insights:) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M-a3uGaiiOk" title="The ML Muse Ep. 2: Ankit Anand" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
