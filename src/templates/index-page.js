@@ -25,19 +25,22 @@ export const pageQuery = graphql`
 const HomePage = ({ data }) => {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
-	return (
-		<Layout>
-      <SEO/>
+  return (
+    <Layout>
+      <SEO />
       <div className="image-overlay">
-          <section className="overlay-content">
-            <h1 class="title">{frontmatter.title}</h1>
-            <div className="description" dangerouslySetInnerHTML={{__html: html}}/>
-            <Link to={frontmatter.cta.ctaLink} className="button">{frontmatter.cta.ctaText}<span class="icon -right"><CgMoreR/></span></Link>
-          </section>
+        <section className="overlay-content">
+          <h1 class="title">{frontmatter.title}</h1>
+          <div className="description" dangerouslySetInnerHTML={{ __html: html }} />
+          <div className="overlay-buttons grids col-1 lg-2">
+            <Link to={frontmatter.cta.ctaLink} className="button">{frontmatter.cta.ctaText}<span class="icon -right"><CgMoreR /></span></Link>
+            <a href="https://ramneet-singh.github.io/SummerOfML-2021/" target="_blank" className="button">Summer of ML</a>
+          </div>
+        </section>
       </div>
       <BlogListHome />
-		</Layout>
-	)
+    </Layout>
+  )
 }
 
 export default HomePage

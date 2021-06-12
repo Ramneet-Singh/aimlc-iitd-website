@@ -1,12 +1,12 @@
 import React from "react"
-import {graphql, StaticQuery} from "gatsby"
+import { graphql, StaticQuery } from "gatsby"
 import Img from "gatsby-image"
 
 const ProfileCard = ({ data }) => (
     //Code for a single profile card
     <div className="profile-card">
-        <Img 
-            fluid={data.frontmatter.profileImage.childImageSharp.fluid} 
+        <Img
+            fluid={data.frontmatter.profileImage.childImageSharp.fluid}
             objectFit="cover"
             objectPosition="50% 50%"
             alt={data.frontmatter.first_name + ' ' + data.frontmatter.last_name + ' - Profile Image'}
@@ -14,7 +14,7 @@ const ProfileCard = ({ data }) => (
         />
         <div className="profile-content">
             <h2 className="profile-name">
-                {data.frontmatter.first_name+" "+data.frontmatter.last_name}
+                {data.frontmatter.first_name + " " + data.frontmatter.last_name}
             </h2>
             <p className="profile-role">
                 {data.frontmatter.role}
@@ -25,15 +25,15 @@ const ProfileCard = ({ data }) => (
 
 const ProfilesMaker = ({ data }) => (
     //Code for the overall structure
-    <div className="profiles-grid">
+    <div className="profiles-grid" id="team">
         {data}
     </div>
 )
 
 export default function ProfileCards() {
     return (
-        <StaticQuery 
-            query = {graphql`
+        <StaticQuery
+            query={graphql`
                 query{
                     allMarkdownRemark(
                         sort: { order: ASC, fields: [frontmatter___date] }
@@ -63,7 +63,7 @@ export default function ProfileCards() {
                 }`
             }
 
-            render = { data => {
+            render={data => {
                 const posts = data.allMarkdownRemark.edges
                     .filter(edge => !!edge.node.frontmatter.date)
                     .map(edge =>
