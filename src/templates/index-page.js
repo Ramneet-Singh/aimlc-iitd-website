@@ -30,11 +30,11 @@ const HomePage = ({ data }) => {
       <SEO />
       <div className="image-overlay">
         <section className="overlay-content">
-          <h1 class="title">{frontmatter.title}</h1>
+          <h1 className="title">{frontmatter.title}</h1>
           <div className="description" dangerouslySetInnerHTML={{ __html: html }} />
           <div className="overlay-buttons grids col-1 lg-2">
-            <Link to={frontmatter.cta.ctaLink} className="button">{frontmatter.cta.ctaText}<span class="icon -right"><CgMoreR /></span></Link>
-            <a href="https://ramneet-singh.github.io/SummerOfML-2021/" target="_blank" className="button">Summer of ML</a>
+            <Link to={frontmatter.cta.ctaLink} className="button">{frontmatter.cta.ctaText}<span className="icon -right"><CgMoreR /></span></Link>
+            <a href="https://ramneet-singh.github.io/SummerOfML-2021/" target="_blank" className="button">Summer of ML '21</a>
           </div>
         </section>
       </div>
